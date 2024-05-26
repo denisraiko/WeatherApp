@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  WeatherApp
+
+  Created by Denis Raiko on 21.05.24.
+  
+*/
+"Partly cloudy" = "Partly cloudy";
+"Hourly forecast" = "Hourly forecast";
+"Daily forecast" = "Daily forecast";
